@@ -1,0 +1,40 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.18.115:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:2024-08-11 20:34:04.312970 - Successful login by admin from IP: 192.168.18.115
+INFO:werkzeug:192.168.18.115 - - [11/Aug/2024 20:34:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2024 20:34:19] "[31m[1mGET / HTTP/1.1[0m" 401 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.18.115:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:2024-08-11 20:35:43.315177 - Successful login by admin from IP: 192.168.18.115
+INFO:werkzeug:192.168.18.115 - - [11/Aug/2024 20:35:43] "GET / HTTP/1.1" 200 -
+INFO:root:2024-08-11 20:35:44.085291 - Successful login by admin from IP: 192.168.18.115
+INFO:werkzeug:192.168.18.115 - - [11/Aug/2024 20:35:44] "GET / HTTP/1.1" 200 -
+INFO:root:2024-08-11 20:35:44.291011 - Successful login by admin from IP: 192.168.18.115
+INFO:werkzeug:192.168.18.115 - - [11/Aug/2024 20:35:44] "GET / HTTP/1.1" 200 -
+INFO:root:2024-08-11 20:35:44.489959 - Successful login by admin from IP: 192.168.18.115
+INFO:werkzeug:192.168.18.115 - - [11/Aug/2024 20:35:44] "GET / HTTP/1.1" 200 -
+INFO:root:2024-08-11 20:35:44.672336 - Successful login by admin from IP: 192.168.18.115
+INFO:werkzeug:192.168.18.115 - - [11/Aug/2024 20:35:44] "GET / HTTP/1.1" 200 -
+INFO:root:2024-08-11 20:35:44.890129 - Successful login by admin from IP: 192.168.18.115
+INFO:werkzeug:192.168.18.115 - - [11/Aug/2024 20:35:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2024 20:35:45] "[31m[1mGET / HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2024 20:35:55] "[31m[1mGET / HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2024 20:36:03] "[31m[1mGET / HTTP/1.1[0m" 401 -
+WARNING:root:2024-08-11 20:36:06.705464 - IP 127.0.0.1 has been temporarily blocked due to multiple failed login attempts
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2024 20:36:06] "[31m[1mGET / HTTP/1.1[0m" 401 -
+WARNING:root:2024-08-11 20:36:08.897626 - IP 127.0.0.1 has been temporarily blocked due to multiple failed login attempts
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2024 20:36:08] "[31m[1mGET / HTTP/1.1[0m" 401 -
+WARNING:root:2024-08-11 20:36:10.530311 - IP 127.0.0.1 has been temporarily blocked due to multiple failed login attempts
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2024 20:36:10] "[31m[1mGET / HTTP/1.1[0m" 401 -
+WARNING:root:2024-08-11 20:36:10.705064 - IP 127.0.0.1 has been temporarily blocked due to multiple failed login attempts
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2024 20:36:10] "[31m[1mGET / HTTP/1.1[0m" 401 -
+WARNING:root:2024-08-11 20:36:13.065835 - IP 127.0.0.1 has been temporarily blocked due to multiple failed login attempts
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2024 20:36:13] "[31m[1mGET / HTTP/1.1[0m" 401 -
+WARNING:root:2024-08-11 20:36:15.561606 - IP 127.0.0.1 has been temporarily blocked due to multiple failed login attempts
+INFO:werkzeug:127.0.0.1 - - [11/Aug/2024 20:36:15] "[31m[1mGET / HTTP/1.1[0m" 401 -

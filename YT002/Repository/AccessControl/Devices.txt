@@ -1,0 +1,4 @@
+Nokia
+Device=Ra'ad        
+PASSWORD=!@mAM0nster.
+

@@ -1,0 +1,1 @@
+# Tell if any pcs gain access to server and their status
